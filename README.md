@@ -16,3 +16,5 @@ must approve your recommendations.
 - Convert casual riders into annual members
 ### Business Task
 - Identify the differences between how annual members and casual riders use Cyclistic bike
+### Deliverables
+- Provide three recommendations for marketing strategies designed to convert our casual riders
