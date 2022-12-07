@@ -18,3 +18,4 @@ must approve your recommendations.
 - Identify the differences between how annual members and casual riders use Cyclistic bike
 ### Deliverables
 - Provide three recommendations for marketing strategies designed to convert our casual riders
+- Dashboard file available for down load (here)[https://drive.google.com/file/d/1PURjj1dIIJElKYUZOHCRcfObQ4rLu86K/view?usp=sharing].
