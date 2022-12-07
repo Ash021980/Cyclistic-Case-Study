@@ -17,5 +17,5 @@ must approve your recommendations.
 ### Business Task
 - Identify the differences between how annual members and casual riders use Cyclistic bike
 ### Deliverables
-- Provide three recommendations for marketing strategies designed to convert our casual riders
+- 3 recommendations for marketing strategies designed to convert our casual riders
 - Microsoft Power BI Dashboard file available for download [here](https://drive.google.com/file/d/1PURjj1dIIJElKYUZOHCRcfObQ4rLu86K/view?usp=sharing).
