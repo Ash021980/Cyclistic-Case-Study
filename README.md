@@ -16,6 +16,18 @@ must approve your recommendations.
 - Convert casual riders into annual members
 ### Business Task
 - Identify the differences between how annual members and casual riders use Cyclistic bike
+### Data Collection
+- Collecting the last 12 months worth of Cyclistic trip data.
+- Data was downloaded as zip files from [Divvy](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://www.divvybikes.com/data-license-agreement).
+- The data was made available by Motivate International Inc.
+- Considered internal data for analysis purposes
+### Tools Used
+- Notepad++
+- Excel
+- Python
+- Power BI
+- Google Slides
+- (_Coming Soon! SSIS and SSMS_)
 ### Deliverables
 - 3 recommendations for marketing strategies designed to convert our casual riders
 - Microsoft Power BI Dashboard file available for download [here](https://drive.google.com/file/d/1PURjj1dIIJElKYUZOHCRcfObQ4rLu86K/view?usp=sharing).
