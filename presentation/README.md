@@ -1,1 +1,3 @@
-# Presentation and Report
+# Presentation
+
+Google Slide presentation for teammates and stakeholders.
