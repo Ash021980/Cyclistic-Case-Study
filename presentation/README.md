@@ -1,3 +1,4 @@
 # Presentation
 
-Google Slide presentation for teammates and stakeholders.
+- Google Slide presentation for teammates and stakeholders.
+- PDF report
